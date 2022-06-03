@@ -4,12 +4,18 @@
   
   
   <entry>
-    <title>开始</title>
-    <link href="/2022/05/28/start/"/>
-    <url>/2022/05/28/start/</url>
+    <title>不知道标题应该叫什么啦</title>
+    <link href="/2022/06/03/start/"/>
+    <url>/2022/06/03/start/</url>
     
-    <content type="html"><![CDATA[<p>从今天开始要重启博客记录了^_^</p>]]></content>
+    <content type="html"><![CDATA[<p>服务器断租也有几个月了， 一方面是真的续不起，还有一方面是真的穷，所以记录阵地从自己的网站迁移到静态博客，以后还是会保持一周两篇的节奏更新哒^_^</p>]]></content>
     
+    
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
     
     
   </entry>
